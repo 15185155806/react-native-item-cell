@@ -157,7 +157,6 @@ const styles = StyleSheet.create({
     width: 29,
     height: 29,
     borderRadius: 8,
-    backgroundColor: '#333'
   },
   border: {
     height: 1 / PixelRatio.get(),
